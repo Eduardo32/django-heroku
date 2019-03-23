@@ -43,6 +43,7 @@ Minimal configuration to host a Django project at Heroku
 
 ## Configuring the Data Base
 * pip install dj-database-url
+[Documentação](https://github.com/kennethreitz/dj-database-url)
 
 ### Settings.py
 * from dj_database_url import parse as dburl
